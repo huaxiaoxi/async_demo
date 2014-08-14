@@ -4,13 +4,15 @@ async_demo
 A demo for async.
 
 http://blog.fens.me/nodejs-async/
+http://blog.fens.me/nodejs-async-timer/
 
 INSTALL
 ===========================
 
-> git clone https://github.com/caolan/async.git nodejs-async
-
-> cd  nodejs-async && npm install
+```{bash}
+git clone https://github.com/caolan/async.git nodejs-async
+cd  nodejs-async && npm install
+```
 
 Change Log
 ===================================
