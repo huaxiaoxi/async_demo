@@ -49,5 +49,6 @@ https://github.com/caolan/async
 26. 修改cargo.js文件
 27. 增加applyEach.js文件
 28. 修改utils.js实例和注释
+29. 加点无关的内容
 
 
